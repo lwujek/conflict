@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 LOCAL
 # conflict
